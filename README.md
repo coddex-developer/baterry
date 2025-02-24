@@ -1,1 +1,1 @@
-Simulador de bateria criado com html e css.
+Uma landing Page que simula o nivel de bateria de formadinânica desenvolvido com Html, Css e Javascript.
